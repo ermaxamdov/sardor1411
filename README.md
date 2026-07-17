@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**sardor1411/sardor1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sardor**, a full-stack developer and startup founder from Uzbekistan.
 
-Here are some ideas to get you started:
+I enjoy building products that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If I get an idea, chances are I'll start building it immediately.
+
+My main tech stack is React, Next.js, React Native, TypeScript, Node.js, Tailwind CSS, Prisma, PostgreSQL, and Framer Motion.
+
+Right now, I'm mostly building AI products, SaaS platforms, and mobile apps.
+
+You can also find me here:
+
+- 📸 Instagram: https://www.instagram.com/ermaxamadov.sardor/
+- 💬 Telegram: https://t.me/Ermaxamadov
+
+## Fun Facts:
+
+- 🐱 I love cats.
+- 🍵 I don't like tea.
+- 🚀 Interstellar is my favorite movie.
+- ❤️ Loyal to my one and only girlfriend.
+- 🏋️ Hobbies: Watching movies and going to the gym.
