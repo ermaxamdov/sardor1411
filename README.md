@@ -19,5 +19,4 @@ You can find me on **[Instagram](https://www.instagram.com/ermaxamadov.sardor/)*
 - I love cats.
 - I don't like tea.
 - *Interstellar* is my favorite movie.
-- Loyal to my one and only girlfriend.
 - Hobbies: Movies & Gym.
