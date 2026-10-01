@@ -10,7 +10,7 @@ My main tech stack is **React, Next.js, React Native, TypeScript, Node.js, Tailw
 
 Right now, I'm mostly building **AI products, SaaS platforms, and mobile apps.**
 
-You can find me on **[Instagram](https://www.instagram.com/ermaxamadov.sardor/)** or **[Telegram](https://t.me/Ermaxamadov)**.
+You can find me on **[Instagram](https://www.instagram.com/ermaxamadov.sardor/)** or **[Telegram](https://t.me/e1kos)**.
 
 ---
 
